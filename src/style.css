@@ -1,0 +1,37 @@
+.container-full {
+  padding: 4% 11%;
+  width: 100%;
+  float: left;
+}
+.frmbtn {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.frm-dg input.ant-input {
+  height: 40px;
+  border-radius: 1px;
+}
+
+.frm-dg
+  .ant-select-single:not(.ant-select-customize-input)
+  .ant-select-selector {
+  height: 40px !important;
+  border-radius: 1px;
+}
+.frm-dg button.ant-btn.ant-btn-primary {
+  background: #000;
+  border-color: #000;
+  width: 41%;
+}
+
+.table-row0 {
+  margin-top: 40px;
+}
+
+.frm-dg {
+  margin-top: 1%;
+  margin-bottom: 3%;
+  width: 100%;
+}
